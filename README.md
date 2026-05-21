@@ -12,4 +12,4 @@ ARL requires **Python 3.9+**. To install the full dependencies, simply run `pip 
 
 ## Acknowledgment
 
-These implementations are based on and adapted from OGBench environments: https://github.com/seohongpark/ogbench/tree/master.
+These implementations are based on and adapted from OGBench environments and agent implementations: https://github.com/seohongpark/ogbench/tree/master.
